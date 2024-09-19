@@ -1,8 +1,12 @@
-![Convox Banner](/profile/images/banner.png)
+<div align="center">
+  <img src="/profile/images/banner2.png" alt="Convox Banner">
+</div>
 
+<br>
 
-# Convox ![Convox Logo](/profile/images/logo.png)
-
+<div align="center">
+  <img src="/profile/images/wordmark-logo.png" alt="Convox Logo">
+</div>
 
 Convox is a **Platform-as-a-Service (PaaS)** designed to simplify cloud infrastructure management for **developers** and **DevOps teams**. Convox accelerates application delivery, giving you full control over your cloud environment so you can focus on building, not managing.
 
