@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td><img src="/profile/images/logo.png" alt="Convox Logo" width="200px" height="200px"></td>
-    <td><img src="/profile/images/banner2.png" alt="Convox Banner" width="1200px" height="200px"></td>
+    <td><img src="/profile/images/logo.png" alt="Convox Logo"></td>
+    <td><img src="/profile/images/banner2.png" alt="Convox Banner"></td>
   </tr>
 </table>
 
@@ -10,6 +10,7 @@
 <div align="center">
   <img src="/profile/images/wordmark-logo.png" alt="Convox Wordmark">
 </div>
+
 
 Convox is a **Platform-as-a-Service (PaaS)** designed to simplify cloud infrastructure management for **developers** and **DevOps teams**. Convox accelerates application delivery, giving you full control over your cloud environment so you can focus on building, not managing.
 
