@@ -1,7 +1,7 @@
-![Convox Banner](/images/banner.png)
+![Convox Banner](/profile/images/banner.png)
 
 
-# Convox ![Convox Logo](/images/logo.png)
+# Convox ![Convox Logo](/profile/images/logo.png)
 
 
 Convox is a **Platform-as-a-Service (PaaS)** designed to simplify cloud infrastructure management for **developers** and **DevOps teams**. Convox accelerates application delivery, giving you full control over your cloud environment so you can focus on building, not managing.
@@ -23,27 +23,23 @@ Startups and enterprises alike trust Convox. Whether launching a new app or scal
 
 ## Quickstart: Get Set Up with Convox
 
-Deploy your first app in minutes. Follow these steps for a quick start:
+Deploy your first app in minutes by following these steps:
 
 1. **Create Your Free Convox Console Account**  
-   Start by creating an account and setting up your environment.  
    [Sign up here](https://console.convox.com/signup)
 
 2. **Install a Runtime Integration for Your Cloud Provider**  
-   Connect your cloud account and configure your environment.  
    [Video](https://youtu.be/gbY0ZUKf1L8?si=QTKQ6gM4Rc_9Z3S3) | [Docs](https://docs.convox.com/getting-started/introduction/#install-a-runtime-integration-for-your-cloud-provider)
 
 3. **Install a Rack**  
-   Set up a rack for your infrastructure.  
    [Video](https://youtu.be/ugbvWz1O3HM?si=rX6dwECl4miW0pSH) | [Docs](https://docs.convox.com/getting-started/introduction/#install-a-rack)
 
 4. **Install the Convox CLI and Log In**  
-   Access Convox features via the CLI.  
    [Video](https://youtu.be/HGajqcc1RCc?si=ujvwsxVvf1cAi45A) | [Docs](https://docs.convox.com/getting-started/introduction/#install-the-convox-cli-and-log-in)
 
 5. **Create and Deploy an Application**  
-   Deploy your first app in minutes.  
    [Video](https://youtu.be/8QSt4-fiPXU?si=ielt4ILSsYTh1TbK) | [Docs](https://docs.convox.com/getting-started/introduction/#deploy-a-sample-app)
+
 
 ## Documentation and Resources
 - [Get Started for Free](https://console.convox.com/signup)
