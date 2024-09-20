@@ -44,7 +44,9 @@ Deploy your first app in minutes by following these steps:
 
 5. **Create and Deploy an Application**  
    [Video](https://youtu.be/8QSt4-fiPXU?si=ielt4ILSsYTh1TbK) | [Docs](https://docs.convox.com/getting-started/introduction/#deploy-a-sample-app)
-
+   
+6. **CI/CD Workflows - Review and Deployment**  
+   [Video](https://youtu.be/LogSDkIGZm0?si=Medi2EPZXisJnlRa) | [Docs](https://console-docs.convox.com/console/workflows)
 
 ## Documentation and Resources
 - [Get Started Free](https://console.convox.com/signup)
