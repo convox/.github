@@ -41,7 +41,7 @@ Deploy your first app in minutes by following these steps:
 3. **Install a Rack**  
    [Video](https://youtu.be/ugbvWz1O3HM?si=rX6dwECl4miW0pSH) | [Docs](https://docs.convox.com/getting-started/introduction/#install-a-rack)
 
-4. **Install the Convox CLI and Log In**  
+4. **Connecting the Convox CLI**  
    [Video](https://youtu.be/HGajqcc1RCc?si=ujvwsxVvf1cAi45A) | [Docs](https://docs.convox.com/getting-started/introduction/#install-the-convox-cli-and-log-in)
 
 5. **Create and Deploy an Application**  
@@ -52,6 +52,7 @@ Deploy your first app in minutes by following these steps:
 - [Get Started Free](https://console.convox.com/signup)
 - [Convox Academy Playlist](https://www.youtube.com/playlist?list=PL3w2iTa7QRGP48BP0NNgsLWCjMS9v-0go)
 - [Convox Documentation](https://docs.convox.com/getting-started/introduction)
+- [Examples Repository](https://github.com/convox-examples)
 - [Explore Product Features](https://convox.com/product)
 - [Enterprise Solutions](https://convox.com/enterprise)
 
