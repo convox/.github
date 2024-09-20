@@ -7,16 +7,15 @@
 
 <br>
 
-<div align="center">
-  <img src="/profile/images/wordmark-logo.png" alt="Convox Wordmark">
-</div>
+# Convox 
 
+## Why Convox?
 
 Convox is a **Platform-as-a-Service (PaaS)** designed to simplify cloud infrastructure management for **developers** and **DevOps teams**. Convox accelerates application delivery, giving you full control over your cloud environment so you can focus on building, not managing.
 
 ## Why Convox?
 
-Since 2014, Convox has helped teams streamline application deployment, management, and scaling across various cloud providers like AWS, Google Cloud, DigitalOcean, and Azure. It integrates seamlessly into your workflow—regardless of programming language or framework—letting you focus on building.
+Since 2014, Convox has helped teams streamline application deployment, management, and scaling across cloud providers like AWS, Google Cloud, DigitalOcean, and Azure. Convox integrates seamlessly into your workflow—no matter the programming language or framework—allowing you to focus on developing your project.
 
 ### Key Features:
 - **CI/CD Automation**: Automate your build, test, and deploy processes with built-in workflows.
@@ -50,16 +49,17 @@ Deploy your first app in minutes by following these steps:
 
 
 ## Documentation and Resources
-- [Get Started for Free](https://console.convox.com/signup)
+- [Get Started Free](https://console.convox.com/signup)
 - [Convox Academy Playlist](https://www.youtube.com/playlist?list=PL3w2iTa7QRGP48BP0NNgsLWCjMS9v-0go)
 - [Convox Documentation](https://docs.convox.com/getting-started/introduction)
 - [Explore Product Features](https://convox.com/product)
 - [Enterprise Solutions](https://convox.com/enterprise)
 
 ## Learn More
-- [Visit Our Website](https://convox.com)
+- [Website](https://convox.com)
 - [About Convox](https://convox.com/about)
-- [Twitter/X](https://x.com/goconvox)
+- [YouTube](https://www.youtube.com/@goconvox)
+- [X (Twitter)](https://x.com/goconvox)
 - [LinkedIn](https://linkedin.com/company/convox)
 
 ---
