@@ -9,8 +9,6 @@
 
 # Convox 
 
-## Why Convox?
-
 Convox is a **Platform-as-a-Service (PaaS)** designed to simplify cloud infrastructure management for **developers** and **DevOps teams**. Convox accelerates application delivery, giving you full control over your cloud environment so you can focus on building, not managing.
 
 ## Why Convox?
